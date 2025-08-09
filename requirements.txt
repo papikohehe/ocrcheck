@@ -1,0 +1,6 @@
+streamlit>=1.33
+pandas>=2.0
+openpyxl>=3.1
+mammoth>=1.6.0
+python-docx>=1.1.0
+requests>=2.31
